@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am a passionate Frontend Developer and Software Engineer with a strong foundation in building responsive and user-friendly web applications. Currently, I am expanding my expertise towards Full-Stack Development, combining modern frontend technologies like React and Tailwind CSS with backend skills in Node.js and databases.<br><br>I enjoy solving complex problems, writing clean and maintainable code, and continuously learning new technologies to deliver high-quality software. My goal is to create impactful projects that blend functionality, performance, and great user experiences.<br>
+I am a passionate and detail-oriented Full Stack Software Engineer with expertise in building dynamic, responsive, and user-focused web applications from concept to deployment. Skilled in frontend technologies like React, Tailwind CSS, and JavaScript, and backend development with Node.js, Express, and MongoDB, I deliver scalable, high-performance solutions that meet both client and business needs.
 
+I have a strong understanding of the complete development lifecycle—from designing intuitive UIs and implementing seamless user experiences to developing secure, efficient backend systems and integrating APIs. My approach combines clean code, problem-solving skills, and modern best practices, ensuring products are reliable, maintainable, and future-ready.
+
+Whether working independently or in a collaborative team environment, I’m committed to continuous learning, adopting the latest technologies, and delivering exceptional results that drive growth and innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Omran Ahmadzai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadzai.omran12@gmail.com) 
