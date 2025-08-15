@@ -1,5 +1,9 @@
 # 💫 About Me:
-software engineer<br>
+I am a passionate and detail-oriented Full Stack Software Engineer with expertise in building dynamic, responsive, and user-focused web applications from concept to deployment. Skilled in frontend technologies like React, Tailwind CSS, and JavaScript, and backend development with Node.js, Express, and MongoDB, I deliver scalable, high-performance solutions that meet both client and business needs.
+
+I have a strong understanding of the complete development lifecycle—from designing intuitive UIs and implementing seamless user experiences to developing secure, efficient backend systems and integrating APIs. My approach combines clean code, problem-solving skills, and modern best practices, ensuring products are reliable, maintainable, and future-ready.
+
+Whether working independently or in a collaborative team environment, I’m committed to continuous learning, adopting the latest technologies, and delivering exceptional results that drive growth and innovation.
 
 
 # 💻 Tech Stack:
