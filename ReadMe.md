@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a passionate and detail-oriented Full Stack Software Engineer with expertise in building dynamic, responsive, and user-focused web applications from concept to deployment. Skilled in frontend technologies like React, Tailwind CSS, and JavaScript, and backend development with Node.js, Express, and MongoDB, I deliver scalable, high-performance solutions that meet both client and business needs.
+💡 I'm Omran Ahmadzai, a Software Engineer.<br>🔭 I’m currently working on https://github.com/OmranInTech/Mymirate<br>👀 I’m interested in growing as a full stack Software Engineer.<br>🌱 I’m currently learning the MERN Stack.<br>💬 Ask me about  Python , React JS, DSA.<br>📫 You can contact me at ahmadzai.omran12@gmail.com.<br>💞️ I’m looking to collaborate on ...<br>⚡ Fun fact: I am a passionate full-stack developer.<br>
 
-I have a strong understanding of the complete development lifecycle—from designing intuitive UIs and implementing seamless user experiences to developing secure, efficient backend systems and integrating APIs. My approach combines clean code, problem-solving skills, and modern best practices, ensuring products are reliable, maintainable, and future-ready.
 
-Whether working independently or in a collaborative team environment, I’m committed to continuous learning, adopting the latest technologies, and delivering exceptional results that drive growth and innovation.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omran-ahmadzai-68a5b6351/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadzai.omran12@gmail.com) 
 
 
 # 💻 Tech Stack:
