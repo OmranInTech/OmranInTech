@@ -1,3 +1,13 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nasratullah+Shafiq...;Full-Stack+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
+  </a>
+</h1>
+
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
+
 # 💫 About Me:
 💡 I'm Omran Ahmadzai, a Software Engineer.<br>🔭 I’m currently working on https://github.com/OmranInTech/Mymirate<br>👀 I’m interested in growing as a full stack Software Engineer.<br>🌱 I’m currently learning the MERN Stack.<br>💬 Ask me about  Python , React JS, DSA.<br>📫 You can contact me at ahmadzai.omran12@gmail.com.<br>💞️ I’m looking to collaborate on ...<br>⚡ Fun fact: I am a passionate full-stack developer.<br>
 
