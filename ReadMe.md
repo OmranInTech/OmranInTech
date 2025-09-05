@@ -11,6 +11,16 @@
 # 💫 About Me:
 💡 I'm Omran Ahmadzai, a Software Engineer.<br>🔭 I’m currently working on https://github.com/OmranInTech/Mymirate<br>👀 I’m interested in growing as a full stack Software Engineer.<br>🌱 I’m currently learning the MERN Stack.<br>💬 Ask me about  Python , React JS, DSA.<br>📫 You can contact me at ahmadzai.omran12@gmail.com.<br>💞️ I’m looking to collaborate on ...<br>⚡ Fun fact: I am a passionate full-stack developer.<br>
 
+<br/>
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omran-ahmadzai-68a5b6351/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadzai.omran12@gmail.com) 
