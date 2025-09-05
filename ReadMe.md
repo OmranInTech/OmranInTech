@@ -34,8 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omranintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasratullah-Shafiq&theme=tokyonight&langs_count=40&hide_border=true&include_all_commits=true&count_private=true&layout=pie)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omranintech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
