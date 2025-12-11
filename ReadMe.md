@@ -9,7 +9,7 @@
 </div>
 
 # 💫 About Me:
-💡 I'm Omran Ahmadzai, a Software Engineer.<br>🔭 I’m currently working on https://github.com/OmranInTech/Mymirate<br>👀 I’m interested in growing as a full stack Software Engineer.<br>🌱 I’m currently learning the MERN Stack.<br>💬 Ask me about  Python , React JS, DSA.<br>📫 You can contact me at ahmadzai.omran12@gmail.com.<br>💞️ I’m looking to collaborate on ...<br>⚡ Fun fact: I am a passionate full-stack developer.<br>
+💡 I'm Omran Ahmadzai, a Software Engineer.<br>🔭 I’m currently working on https://github.com/OmranInTech/Mymirate<br>👀 I’m interested in growing as a full stack Software Engineer.<br>🌱 I’m currently working on projects.<br>💬 Ask me about  full stack web development  and DSA.<br>📫 You can contact me at ahmadzai.omran12@gmail.com.<br>💞️ I’m looking to collaborate on projects <br>
 
 <br/>
 <br/>
