@@ -1,49 +1,56 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+OmranAhmadzai...;Full-Stack+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast&center=true&size=35&color=fe428e&width=500&height=50">
 </h1>
 
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="250px" alt="Coding Animation"/>
+</p>
 
-# 💫 About Me:
-💡 I'm Omran Ahmadzai, a Software Engineer.<br>🔭 I’m currently working on https://github.com/OmranInTech/Mymirath<br>👀 I’m interested in growing as a full stack Software Engineer.<br>🌱 I’m currently working on projects.<br>💬 Ask me about  full stack web development  and DSA.<br>📫 You can contact me at ahmadzai.omran12@gmail.com.<br>💞️ I’m looking to collaborate on projects <br>
+## 💫 About Me
+I am a passionate **Full-Stack Software Engineer** dedicated to building scalable web applications and solving complex algorithmic challenges. With a focus on clean code and user-centric design, I bridge the gap between robust backend logic and intuitive frontend experiences.
 
-<br/>
-<br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omran-ahmadzai-68a5b6351/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadzai.omran12@gmail.com) 
-
-
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/RESTful_API-%23FF5733.svg?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omranintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omranintech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omranintech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omranintech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🔭 **Current Project:** Building [Mymirath](https://github.com/OmranInTech/Mymirath)
+- 🚀 **Goals:** Mastering Distributed Systems and Advanced DSA
+- 💬 **Ask me about:** React, Node.js, Laravel, and Greedy Algorithms
+- 📫 **Reach me at:** [ahmadzai.omran12@gmail.com](mailto:ahmadzai.omran12@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omranintech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omranintech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💻 Tech Stack
 
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📊 Performance Metrics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=omranintech&theme=dark&show_icons=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omranintech&theme=dark&layout=compact&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=omranintech&theme=dark&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/omran-ahmadzai-68a5b6351/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmadzai.omran12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</div>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=omranintech&icon=0&color=0" />
+</p>
