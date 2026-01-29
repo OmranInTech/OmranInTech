@@ -1,19 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast&center=true&size=35&color=fe428e&width=500&height=50">
-</h1>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="250px" alt="Coding Animation"/>
-</p>
-
-## 💫 About Me
-I am a passionate **Full-Stack Software Engineer** dedicated to building scalable web applications and solving complex algorithmic challenges. With a focus on clean code and user-centric design, I bridge the gap between robust backend logic and intuitive frontend experiences.
-
-- 🔭 **Current Project:** Building [Mymirath](https://github.com/OmranInTech/Mymirath)
-- 🚀 **Goals:** Mastering Distributed Systems and Advanced DSA
-- 💬 **Ask me about:** React, Node.js, Laravel, and Greedy Algorithms
-- 📫 **Reach me at:** [ahmadzai.omran12@gmail.com](mailto:ahmadzai.omran12@gmail.com)
-
+- 👋 Hi, I’m Omran Ahmadzai, also known as Omran
+- 👀 I’m interested in web technologies
+- 🌱 I’m currently learning about all things related to web
+- 💞️ I’m looking to collaborate on Full Stack web Development
 ---
 
 ## 💻 Tech Stack
