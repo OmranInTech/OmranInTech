@@ -17,18 +17,6 @@
 
 ---
 
-## 📊 Performance Metrics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omranintech&theme=dark&show_icons=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omranintech&theme=dark&layout=compact&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=omranintech&theme=dark&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/omran-ahmadzai-68a5b6351/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
