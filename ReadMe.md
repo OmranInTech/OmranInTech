@@ -15,18 +15,4 @@
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/omran-ahmadzai-68a5b6351/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ahmadzai.omran12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</div>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=omranintech&icon=0&color=0" />
-</p>
