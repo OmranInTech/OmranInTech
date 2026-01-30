@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omran Ahmadzai, also known as Omran
-- 👀 I’m interested in web technologies
+- 👀 I’m full stack web developer
 - 🌱 I’m currently learning about all things related to web
 - 💞️ I’m looking to collaborate on Full Stack web Development
 ---
