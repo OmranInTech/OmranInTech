@@ -1,4 +1,4 @@
-* 👋 Hi, I’m Omran Ahmadzai, also known as Omran
+* 👋 Hi, I’m Omran Ahmadzai
 * 👀 I’m a Software Engineer 
 * 🌱 I’m currently learning all things related to Software Engineering, focusing on DSA and Mathematics
 * 💞️ I’m looking to collaborate on SWE projects and Full Stack Development
