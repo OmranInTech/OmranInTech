@@ -1,7 +1,7 @@
-* 👋 Hi, I’m Omran Ahmadzai
-* 👀 I’m a Software Engineer 
-* 🌱 I’m currently learning all things related to Software Engineering, focusing on DSA and Mathematics
-* 💞️ I’m looking to collaborate on SWE projects and Full Stack Development
+* 👋 Hi, I’m Omran Ahmadzai  
+* 👀 I’m a Software Engineer  
+* 🌱 I’m focused on Software Engineering, DSA, System Design & AI Engineering  
+* 💞️ I’m looking to collaborate on SWE, Full-Stack, and AI-powered systems  
 
 ---
 
@@ -15,25 +15,45 @@
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ---
 
 ### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-154c87?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### 🛠️ Tools, DevOps & SWE
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-008080?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat-square)
+
+---
+
+### 🧠 AI & Systems (NEW)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF6F00?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square)
+
+---
+
+## 🧠 Focus Areas
+
+- Full-Stack Development  
+- Backend Architecture & APIs  
+- System Design & Scalability  
+- AI-Powered Applications  
+- RAG & LLM Systems  
+- Automation & Intelligent Systems  
+- DSA & Problem Solving  
+
+---
