@@ -1,7 +1,7 @@
 * 👋 Hi, I’m Omran Ahmadzai  
 * 👀 I’m a Software Engineer  
-* 🌱 I’m focused on Software Engineering, DSA, System Design & AI Engineering  
-* 💞️ I’m looking to collaborate on SWE, Full-Stack, and AI-powered systems  
+* 🌱 I work on Software Engineering, Full-Stack Development, System Design & AI Systems  
+* 💞️ I’m looking to collaborate on SWE, Full-Stack, and AI-powered projects  
 
 ---
 
@@ -37,23 +37,9 @@
 
 ---
 
-### 🧠 AI & Systems (NEW)
+### 🧠 AI & Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Systems-FF6F00?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square)
-
----
-
-## 🧠 Focus Areas
-
-- Full-Stack Development  
-- Backend Architecture & APIs  
-- System Design & Scalability  
-- AI-Powered Applications  
-- RAG & LLM Systems  
-- Automation & Intelligent Systems  
-- DSA & Problem Solving  
-
----
