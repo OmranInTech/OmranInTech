@@ -1,7 +1,9 @@
-* 👋 Hi, I’m Omran Ahmadzai  
-* 👀 I’m a Software Engineer  
-* 🌱 I work on Software Engineering, Full-Stack Development, System Design & AI Systems  
-* 💞️ I’m looking to collaborate on SWE, Full-Stack, and AI-powered projects  
+👋 Hi, I’m Omran Ahmadzai
+🧠 Backend & Systems-Oriented Software Engineer
+⚙️ I build scalable backend systems, distributed architectures, and AI-powered applications
+🚀 Focused on System Design, High-Performance Backend Engineering & Applied AI Systems
+💡 Currently expanding into advanced backend engineering, cloud-native systems, and production-grade AI infrastructure
+🤝 Open to collaborating on serious backend, system design, and AI-driven engineering projects
 
 ---
 
