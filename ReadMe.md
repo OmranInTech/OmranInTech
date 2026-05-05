@@ -8,16 +8,6 @@
 
 ---
 
-## 🚀 About Me
-
-I’m a systems-oriented engineer specializing in **high-performance backends, distributed architectures, and AI-driven orchestration**. I bridge the gap between traditional software engineering and intelligent, autonomous systems.
-
-- ⚙️ **Systems:** Building scalable microservices, robust APIs, and optimizing database performance.
-- 🧠 **AI & MLOps:** Implementing RAG pipelines, LLM orchestration, and autonomous agents.
-- 🛠️ **DevOps:** Automating deployments via CI/CD, Docker, and cloud-native environments.
-- 📈 **Goal:** Transitioning complex legacy workflows into intelligent, AI-first solutions.
-
----
 
 ## 🧠 Technical Stack
 
