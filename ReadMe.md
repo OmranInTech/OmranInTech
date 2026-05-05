@@ -1,4 +1,4 @@
-👋 Hi, I’m Omran Ahmadzai, a Backend & Systems-Oriented Software Engineer focused on building production-grade software.<br>
+👋 Hi, I’m Omran Ahmadzai, a Backend & Systems-Oriented Software Engineer .<br>
 ⚙️ I design and develop scalable backend systems, distributed architectures, and AI-powered applications.<br>
 🚀 My focus is System Design, high-performance backend engineering, and cloud-native AI systems.<br>
 🤝 I’m actively expanding into advanced backend engineering and open to serious system design and AI-driven collaborations.
