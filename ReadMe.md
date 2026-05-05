@@ -1,5 +1,5 @@
 <h1 align="center">Omran Ahmadzai</h1>
-<h3 align="center">Full-Stack Software Engineer | AI Solution Architect</h3>
+<h3 align="center">Full-Stack Software Engineer | Backend & Systems-Oriented </h3>
 
 <p align="center">
   <strong>Designing scalable systems, distributed architectures, and AI-powered applications.</strong>
@@ -68,22 +68,5 @@ I’m a systems-oriented engineer specializing in **high-performance backends, d
 
 ---
 
-## 🏗️ Selected Projects
 
-- **OmnovaX:** Founder of a digital transformation agency focused on AI-integrated software solutions.
-- **Safehood:** A scalable, microservices-based security platform powered by Django and AI analytics.
-- **MyMirath:** An award-winning Islamic inheritance calculator built with React and TypeScript, optimizing complex logic for legal distribution.
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">
-  <em>"The best way to predict the future is to build it."</em>
-</p>
