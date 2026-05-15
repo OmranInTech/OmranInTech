@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend & Systems | AI Integration</h3>
 
 <p align="center">
-  <strong>Specializing in scalable backend architectures, distributed systems, and seamless AI implementation.</strong>
+  <strong>Building scalable backend architectures, distributed systems, and intelligent AI-driven applications.</strong>
 </p>
 
 ---
@@ -33,19 +33,20 @@
   <img src="https://img.shields.io/badge/Vector_Databases-6366f1?style=flat-square"/>
 </p>
 
-#### 🛠️ DevOps & Environment
+#### 🛠️ DevOps & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-FF6A00?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
-#### 🎨 Frontend Bridge
+#### 🎨 Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
