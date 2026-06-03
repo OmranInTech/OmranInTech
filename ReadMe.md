@@ -1,6 +1,6 @@
 <h1 align="center">Omran Ahmadzai</h1>
 <h3 align="center">Software Engineer | Backend & Systems | AI Integration</h3>
-  
+   
 <p align="center">
   <strong>Engineering scalable backend architectures, distributed systems, and intelligent AI-driven applications.</strong>
 </p>
