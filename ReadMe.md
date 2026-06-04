@@ -1,13 +1,23 @@
 <h1 align="center">Omran Ahmadzai</h1>
-<h3 align="center">Software Engineer | Backend & Systems | AI Integration</h3>
+<h3 align="center">Software Engineer | Mobile Architect | Backend & Systems | AI Integration</h3>
    
 <p align="center">
-  <strong>Engineering scalable backend architectures, distributed systems, and intelligent AI-driven applications.</strong>
+  <strong>Engineering high-performance Flutter mobile architectures, scalable backend distributed systems, and intelligent AI-driven applications.</strong>
 </p>
  
 ---  
 
 ### 🧠 Technical Stack
+
+#### 📱 Mobile & Cross-Platform Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLoC_Architecture-02569B?style=flat-square&logo=bloc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UI%2FUX_Material_Design-757575?style=flat-square&logo=material-design&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Local_Storage_(Hive/Isar)-FF6F00?style=flat-square"/>
+</p>
 
 #### ⚙️ Backend & Systems
 <p>
@@ -55,3 +65,6 @@
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
+
+---
+
