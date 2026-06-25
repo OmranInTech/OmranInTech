@@ -1,10 +1,7 @@
 <h1 align="center">Omran Ahmadzai</h1>
-<h3 align="center">Software Engineer | Mobile Architect | Backend & Systems | AI Integration</h3>
+<h3 align="center">Software Engineer |  Backend & Systems </h3>
    
-<p align="center">
-  <strong>Engineering high-performance Flutter mobile architectures, scalable backend distributed systems, and intelligent AI-driven applications.</strong>
-</p>
-    
+
 ---    
 
 ### 🧠 Technical Stack
