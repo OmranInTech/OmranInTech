@@ -37,7 +37,7 @@
 
 ---
 
-#### 🗄️ Database & Storage
+####  Database & Storage
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -48,7 +48,7 @@
 
 ---
 
-#### 🛠️ DevOps & Infrastructure
+ DevOps & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
