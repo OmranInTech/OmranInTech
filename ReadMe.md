@@ -1,11 +1,11 @@
 <h1 align="center">Omran Ahmadzai</h1>
 <h3 align="center">Software Engineer | Backend & Systems</h3>
 
+---
 
+###  Technical Stack
 
-### 🧠 Technical Stack
-
-#### 💻 Programming Languages
+####  Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -13,9 +13,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
----
 
-#### ⚙️ Backend & Systems
+####  Backend & Systems
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -24,9 +23,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 </p>
 
----
 
-#### 🎨 Frontend Bridge
+####  Frontend Bridge
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -35,7 +33,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
+
 
 ####  Database & Storage
 
@@ -46,7 +44,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
----
+
 
  DevOps & Infrastructure
 
@@ -57,7 +55,7 @@
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square"/>
 </p>
 
----
+
 
 #### 📱 Mobile (Basics)
 
