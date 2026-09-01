@@ -3,7 +3,7 @@
   
 ---
   
-###  Technical Stack       
+###  Technical Stack        
   
 ####  Programming Languages   
 
