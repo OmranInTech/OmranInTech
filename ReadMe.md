@@ -2,7 +2,7 @@
      
 <h3 align="center">Software Engineer · Backend & Systems</h3>
 
-<p align="center">
+<p align="center">  
   Software Engineer specializing in Backend Development, with a focus on designing and developing reliable, scalable, and maintainable systems. Proficient in Python and TypeScript, with experience in backend architecture, APIs, databases, and full-stack development.
 </p>
 
